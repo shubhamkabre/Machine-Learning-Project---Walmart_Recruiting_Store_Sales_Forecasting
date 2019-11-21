@@ -1,4 +1,4 @@
-Walmart Recruiting - Store Sales Forecasting:
+## Walmart Recruiting - Store Sales Forecasting:
 
 Walmart has provided historical sales data for 45 Walmart stores located in different regions. 
 Each store contains a number of departments, and we are tasked with predicting the department-wide sales for each store.
@@ -8,3 +8,6 @@ The weeks including these holidays are weighted five times higher in the evaluat
 Part of the challenge presented by this competition is modeling the effects of markdowns on these holiday weeks in the absence of complete/ideal historical data.
 
 
+100
+- 101
+  - 102
