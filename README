@@ -7,5 +7,4 @@ These markdowns precede prominent holidays, the four largest of which are the Su
 The weeks including these holidays are weighted five times higher in the evaluation than non-holiday weeks.
 Part of the challenge presented by this competition is modeling the effects of markdowns on these holiday weeks in the absence of complete/ideal historical data.
 
-This competition is evaluated on the weighted mean absolute error (WMAE):
 
